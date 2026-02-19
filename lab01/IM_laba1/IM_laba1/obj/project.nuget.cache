@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0yuXFfWypUo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lerse\\source\\repos\\IM_laba1\\IM_laba1\\IM_laba1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lerse\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
