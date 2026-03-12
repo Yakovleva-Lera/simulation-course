@@ -1,0 +1,16 @@
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ForestFireSimulation.Form1.resources
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ForestFireSimulation.csproj.GenerateResource.cache
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ForestFireSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ForestFireSimulation.AssemblyInfoInputs.cache
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ForestFireSimulation.AssemblyInfo.cs
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ForestFireSimulation.csproj.CoreCompileInputs.cache
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\bin\Debug\net10.0-windows\ForestFireSimulation.exe
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\bin\Debug\net10.0-windows\ForestFireSimulation.deps.json
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\bin\Debug\net10.0-windows\ForestFireSimulation.runtimeconfig.json
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\bin\Debug\net10.0-windows\ForestFireSimulation.dll
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\bin\Debug\net10.0-windows\ForestFireSimulation.pdb
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ForestFireSimulation.dll
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\refint\ForestFireSimulation.dll
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ForestFireSimulation.pdb
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ForestFireSimulation.genruntimeconfig.cache
+C:\Users\lerse\source\repos\ForestFireSimulation\ForestFireSimulation\obj\Debug\net10.0-windows\ref\ForestFireSimulation.dll
