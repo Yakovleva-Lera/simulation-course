@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "IM_laba62/1.0.0": {
+        "runtime": {
+          "IM_laba62.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IM_laba62/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
