@@ -1,0 +1,17 @@
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.csproj.GenerateResource.cache
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.AssemblyInfoInputs.cache
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.AssemblyInfo.cs
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.csproj.CoreCompileInputs.cache
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.sourcelink.json
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.Form1.resources
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\bin\Debug\net10.0-windows\IM_laba6.exe
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\bin\Debug\net10.0-windows\IM_laba6.deps.json
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\bin\Debug\net10.0-windows\IM_laba6.runtimeconfig.json
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\bin\Debug\net10.0-windows\IM_laba6.dll
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\bin\Debug\net10.0-windows\IM_laba6.pdb
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.dll
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\refint\IM_laba6.dll
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.pdb
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\IM_laba6.genruntimeconfig.cache
+C:\Users\lerse\OneDrive\Desktop\уник\simulation\simulation-course\lab06\IM_laba6\IM_laba6\obj\Debug\net10.0-windows\ref\IM_laba6.dll

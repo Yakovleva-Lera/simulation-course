@@ -33,13 +33,13 @@ namespace SimulationLab
         public Form1()
         {
             InitializeComponent();
-            rng = new MultiplicativeCongruentialGenerator(52);
+            rng = new MultiplicativeCongruentialGenerator(522345678);
         }
         //Приложение да/нет
         private void btnAnswer1_Click(object sender, EventArgs e)
         {
             double randomValue = rng.Next();
-            lblResult1.Text = randomValue < 0.5 ? "✅ Ответ: ДА" : "❌ Ответ: НЕТ";
+            lblResult1.Text = randomValue < 0.9 ? "✅ Ответ: ДА" : "❌ Ответ: НЕТ";
         }
 
         //Приложение Magic ball
