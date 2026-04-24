@@ -1,3 +1,5 @@
+using System.Globalization;
+
 using System;
 using System.Windows.Forms;
 using System.Globalization;
@@ -68,41 +70,12 @@ namespace IM_laba62
         }
 
         // === МЕТОД: Генерация нормального распределения (Бокс-Мюллер) ===
-        // Формулы:
-        //   ζ₁ = √(-2·ln α₁) · cos(2πα₂)
-        //   ζ₂ = √(-2·ln α₁) · sin(2πα₂)
-
-        private double? spareValue = null;
-
         private double GenerateNormal(double mean, double stdDev)
         {
-            // Если есть сохранённое значение
-            if (spareValue.HasValue)
-            {
-                double result = mean + stdDev * spareValue.Value;
-                spareValue = null;
-                return result;
-            }
-
-            // Генерируем два равномерных числа
-            double alpha1 = generator.Next();
-            double alpha2 = generator.Next();
-
-            while (alpha1 == 0)
-                alpha1 = generator.Next();
-
-            // === Применяем формулы Бокса-Мюллера ===
-            double sqrtTerm = Math.Sqrt(-2.0 * Math.Log(alpha1));
-            double cosTerm = Math.Cos(2.0 * Math.PI * alpha2);
-            double sinTerm = Math.Sin(2.0 * Math.PI * alpha2);
-
-            double z1 = sqrtTerm * cosTerm; // ζ₁
-            double z2 = sqrtTerm * sinTerm; // ζ₂
-
-            // Одно возвращаем, второе сохраняем
-            spareValue = z2;
-
-            return mean + stdDev * z1;
+            double u1 = generator.Next();
+            double u2 = generator.Next();
+            double z = Math.Sqrt(-2 * Math.Log(u1)) * Math.Cos(2 * Math.PI * u2);
+            return mean + stdDev * z;
         }
 
         // === МЕТОД: Расчёт статистики хи-квадрат ===
