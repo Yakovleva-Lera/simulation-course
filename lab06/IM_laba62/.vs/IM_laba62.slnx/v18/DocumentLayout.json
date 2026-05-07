@@ -40,8 +40,16 @@
         },
         {
           "DockedHeight": 58,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -50,7 +58,7 @@
               "RelativeDocumentMoniker": "IM_laba62\\HistogramPanel.cs",
               "ToolTip": "C:\\Users\\lerse\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\simulation\\simulation-course\\lab06\\IM_laba62\\IM_laba62\\HistogramPanel.cs",
               "RelativeToolTip": "IM_laba62\\HistogramPanel.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwAUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T18:18:10.527Z",
               "EditorCaption": ""
@@ -87,18 +95,10 @@
               "RelativeDocumentMoniker": "IM_laba62\\Form1.cs",
               "ToolTip": "C:\\Users\\lerse\\OneDrive\\Desktop\\\u0443\u043D\u0438\u043A\\simulation\\simulation-course\\lab06\\IM_laba62\\IM_laba62\\Form1.cs",
               "RelativeToolTip": "IM_laba62\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAGQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T18:01:28.618Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
